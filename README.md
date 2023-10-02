@@ -52,7 +52,7 @@ UBUNTU_CODENAME=jammy
 
 ### Refactoring into Bash Scripts
 
-While fixing the Terraform CLI gpg deprecriation issues we notice 
+While fixing the Terraform CLI gpg depreciation issues we notice 
 that bash scripts steps were a considerable amount more code. 
 So we decided to create a bash script to install the Terraform CLI.
 
@@ -75,7 +75,7 @@ https://en.wikipedia.org/wiki/Shebang_(Unix)
 
 ## Execution Considerations
 
-When executing the bash script we can use the `./` shorthand notiation to execute the bash script.
+When executing the bash script we can use the `./` shorthand notation to execute the bash script.
 
 eg. `./bin/install_terraform_cli`
 
