@@ -135,7 +135,7 @@ echo $HELLO
 
 #### Printing Vars
 
-We can print an env var using echo eg. `echo $HELOO`
+We can print an env var using echo eg. `echo $HELLO`
 
 #### Scoping of Env Vars
 
